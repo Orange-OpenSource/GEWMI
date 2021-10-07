@@ -1,0 +1,13 @@
+Lists of 13 third-party dependencies.
+(MIT License)  react-native
+(MIT License)  react-native-fs
+(MIT License)  react-redux
+(MIT License)  rn-fetch-blob
+(MIT License)  react-native-flash-message
+(MIT License)  react-native-collapsible
+(MIT License)  react-native-table-component
+(MIT License)  react-native-dialog-input
+(MIT License)  react-navigation & react-navigation-stack
+(MIT License)  @react-native-async-storage/async-storage
+(MIT License) @fortawesome/react-native-fontawesome 
+(MIT License) @fortawesome/free-solid-svg-icons
